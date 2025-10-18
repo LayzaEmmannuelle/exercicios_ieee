@@ -1,2 +1,2 @@
 # exercicios_ieee
-Repositório dos exercicios propostos nas capacitações do IEEE
+Repositório para os exercícios propostos nas capacitações do IEEE
